@@ -1,22 +1,17 @@
-
-The MIT License (MIT)
-
-Copyright (c) 2023 Gradle Inc.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+Acuerdo de Licencia de Fuente Controlada (BSL-Social)
+Proyecto: Passkey Guard Pro / davidauth.dev
+Licenciante: David Jose Camacho
+1. Licencia de Uso Personal y Social
+Se otorga una licencia gratuita y no exclusiva para el uso del software siempre que el usuario sea una Persona Física o una Organización sin fines de lucro que cumpla con los criterios de exclusión.
+2. Umbral de Exclusión (Tolerancia Cero)
+El uso bajo la licencia "Social" queda estrictamente prohibido, requiriendo una Licencia Comercial Pro, si se cumple cualquiera de los siguientes puntos:
+Entidades con fines de lucro: Empresas, startups o freelancers con ingresos brutos anuales superiores a $50,000 USD.
+Capacidad Operativa: Organizaciones con una nómina superior a 5 empleados (incluyendo contratistas).
+Infraestructura: Uso en entornos de producción corporativos o reventa del servicio como marca blanca.
+3. Restricciones Técnicas y Legales
+Atribución: Debe mantenerse el copyright y la referencia a davidauth.dev en todo momento.
+Cláusula de Bloqueo: El Licenciante se reserva el derecho de implementar mecanismos técnicos para suspender el servicio si se detecta un uso corporativo no regularizado.
+Modificaciones: Puedes modificar el código para uso personal, pero no puedes redistribuir versiones derivadas bajo una licencia diferente.
+4. Jurisdicción
+Cualquier disputa relacionada con esta licencia será tratada bajo los términos legales que tú determines al momento de la formalización comercial.
+Nota Pro: Como estamos trabajando en Termux, recuerda que esta licencia debe ir en un archivo llamado LICENSE en la raíz de tu proyecto. Si quieres, puedo ayudarte a redactar el EULA (Acuerdo de Licencia de Usuario Final) más detallado para la web de registro.
